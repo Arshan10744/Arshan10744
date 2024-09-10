@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an app which is to embedded in Microsoft Teams and also working on a Chat Application<br>👯 I’m looking to collaborate on converting ideas into real time projects.<br>🤝 I’m looking for help with Web Development Projects.<br>🌱 I’m currently learning Nest JS, Next JS, basics of deployment and MS Azure.<br>💬 Ask me about JavaScript and Football.<br>⚡ Fun fact is when I am not coding you will find me chasing football on the field.
+🔭 I’m currently working on an app which is to be embedded in Microsoft Teams and also working on a Chat Application<br>👯 I’m looking to collaborate on converting ideas into real time projects.<br>🤝 I’m looking for help with Web Development Projects.<br>🌱 I’m currently learning Nest JS, Next JS, basics of deployment and MS Azure.<br>💬 Ask me about JavaScript and Football.<br>⚡ Fun fact is when I am not coding you will find me chasing football on the field.
 
 
 ## 🌐 Socials:
