@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on backend development of Healthcare & SAAS applications
-👯 I’m looking to collaborate on scalable and high-performance backend solutions, API development, and database optimization.
-🤝 I’m looking for help with advanced AI integrations and automation workflow.
-🌱 I’m currently learning LLMs, Docker, Kubernetes and AWS.
-💬 Ask me anything about Backend Development, API architecture, database management, and optimizing Node.js applications.
+🔭 I’m currently working on backend development of Healthcare & SAAS applications.<br>
+👯 I’m looking to collaborate on scalable and high-performance backend solutions, API development, and database optimization.<br>
+🤝 I’m looking for help with advanced AI integrations and automation workflow.<br>
+🌱 I’m currently learning LLMs, Docker, Kubernetes and AWS.<br>
+💬 Ask me anything about Backend Development, API architecture, database management, and optimizing Node.js applications.<br>
 ⚡ Fun fact is when I am not coding you will find me chasing football on the field.
 
 ## 🌐 Socials:
