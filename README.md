@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on an app which is to be embedded in Microsoft Teams and also working on a Chat Application<br>👯 I’m looking to collaborate on converting ideas into real time projects.<br>🤝 I’m looking for help with Web Development Projects.<br>🌱 I’m currently learning Nest JS, Next JS, basics of deployment and MS Azure.<br>💬 Ask me about JavaScript and Football.<br>⚡ Fun fact is when I am not coding you will find me chasing football on the field.
-
+🔭 I’m currently working on backend development of Healthcare & SAAS applications
+👯 I’m looking to collaborate on scalable and high-performance backend solutions, API development, and database optimization.
+🤝 I’m looking for help with advanced AI integrations and automation workflow.
+🌱 I’m currently learning LLMs, Docker, Kubernetes and AWS.
+💬 Ask me anything about Backend Development, API architecture, database management, and optimizing Node.js applications.
+⚡ Fun fact is when I am not coding you will find me chasing football on the field.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arshan__10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arshan-mudassar-yousaf-b708a61b7) 
